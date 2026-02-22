@@ -2,7 +2,7 @@
 MCMC-Based Machine Unlearning (MCU)
 
 This script replicates the importance sampling-based unlearning approach from 
-the ASIACCS 2022 paper "Markov Chain Monte Carlo-Based Machine Unlearning".
+the ASIACCS 2022 paper "Markov Chain Monte Carlo-Based Machine Unlearning: Unlearning what needs to be forgotten".
 
 It trains a Bayesian Logistic Regression model, and then unlearns a subset of
 data (D_e) from the obtained posterior using importance sampling. It then 

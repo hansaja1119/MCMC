@@ -2,8 +2,8 @@
 
 A Python implementation of the importance sampling-based machine unlearning algorithm from:
 
-> **"Markov Chain Monte Carlo-Based Machine Unlearning: Faster and More General"**  
-> Thanh Nguyen, Troy Amos, Trong Nguyen, Anna Squicciarini  
+> **"Markov Chain Monte Carlo-Based Machine Unlearning: Unlearning what needs to be forgotten"**  
+> Nguyen, Quoc Phong and Oikawa, Ryutaro and Divakaran, Dinil Mon and Chan, Mun Choon and Low, Bryan Kian Hsiang
 > _ACM ASIACCS 2022_
 
 ---
@@ -315,7 +315,7 @@ A **small Wasserstein distance** combined with **maintained accuracy** is the si
 
 ## Key References
 
-- Nguyen et al., _"MCMC-Based Machine Unlearning: Faster and More General"_, ACM ASIACCS 2022
+- Nguyen et al., _"MCMC-Based Machine Unlearning: Unlearning what needs to be forgotten"_, ACM ASIACCS 2022
 - Neal, R. M., _"MCMC Using Hamiltonian Dynamics"_, Handbook of Markov Chain Monte Carlo, 2011
 - Hoffman & Gelman, _"The No-U-Turn Sampler"_, JMLR 2014
 - Villani, C., _"Optimal Transport: Old and New"_, Springer, 2008 (Wasserstein distance)
